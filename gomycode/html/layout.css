@@ -1,0 +1,196 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+    
+
+.navbar li{
+    display: inline;
+     margin-left: 10px;
+
+     
+}
+
+.navbar img{
+    width: 18%;
+    margin-left: 15%;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 -2px 10px 0 rgb(0 0 0 / 15%);
+    font-weight: bold;
+    font-size: 17px;
+    color: #ababab;
+}
+.navbar ul{
+      padding-right: 13%;
+      margin-top: 15px;
+
+}
+
+.first_d {
+    padding-top: 5%;
+    margin: auto;
+    text-align: center;
+
+}
+ .first_d p {
+     margin-top: 50px;
+     text-align: center;
+     font-size: 35px;
+     color: #00b39b63;
+     margin-top: 30px;
+     font-family: 'Work Sans', sans-serif;
+
+ }
+ .second{
+    margin-top: 5%;
+}
+
+a{
+text-decoration: none;
+}
+ .second_p{
+  display: flex;
+  margin-left: 198px;
+  margin-right: 70px;
+  width: 1200px;
+  height: 112px;
+  color: #b84f4f;
+  
+
+ }
+.second_p h2{
+    
+    font-size: 17px;
+    padding-left: 9px;
+    line-height: 1.75;
+    font-weight: 400;
+    font-family: sans-serif;
+    justify-content: space-between;
+
+
+
+}
+
+.section3 {
+    display:flex ;
+    
+     justify-content: center;
+
+}
+
+
+.div1{
+    width: 235px;
+    border: solid 1px;
+    background-color: skyblue;
+    margin: 60px;
+    
+}
+
+
+.div2{
+    width: 235px;
+    border: solid 1px;
+    background-color: thistle;
+    margin: 60px;
+
+} 
+
+.div3{
+    width: 235px;
+    border: solid 1px;
+    background-color: springgreen;
+    margin: 60px;
+}
+
+.div4{
+    font-style:bold;
+}
+.section4{
+    display:flex ;
+    justify-content: center;
+}
+    
+.brands__logos{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.section5{
+    display:flex ;
+    justify-content:space-evenly;
+     background-color: rgb(0, 255, 255)
+}
+
+
+.section5div2{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.divdrolte{
+    border: solid 1px;
+    margin-right: 10px ;
+
+
+}
+
+.divgauche{
+    border: solid 1px;
+    }
+
+.divgauche1{
+    border: solid 1px;
+    margin-bottom: 10px ;
+    background-color: lightcyan;
+}
+
+.divgauche2{
+    border: solid 1px;
+    background-color: lightcyan;
+}
+
+.divdrolte1{
+    border: solid 1px;
+    margin-bottom:10px;
+    flex-wrap: wrap;
+    background-color: lightcyan;
+}
+
+
+
+.divdrolte2{
+    border: solid 1px;
+    background-color: lightcyan;
+}
+
+
+
+.join-us__header{
+    text-align: center;
+}
+
+.section7{
+    text-align: center;
+}
+
+
+.offices__slider{
+    margin-right: 150px ;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
